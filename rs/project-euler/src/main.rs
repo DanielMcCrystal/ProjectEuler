@@ -1,5 +1,5 @@
 mod prob;
 
 fn main() {
-    println!("{}", prob::answer(3));
+    println!("{}", prob::answer(20));
 }
